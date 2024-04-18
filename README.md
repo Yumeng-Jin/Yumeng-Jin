@@ -4,8 +4,8 @@ My journey began with an undergraduate major in Big Data, laying a solid foundat
 Since then, I have gained valuable real-world experience through internships, amounting to approximately two year, where I honed my skills as a data analyst.  
 
 🌱 I’m interested in __Machine learning__, __Natural Language Processing__, __Web-Scraping__, __Visualizations__ and __SQL__.  
-So basicly most of my projects are topics related to them.  
-Also mostly are based on __Python__ language.  
+So basically most of my projects are topics related to them.  
+Also most are based on __Python__ language.  
 
 💞️ What sets me apart is not just my proficiency in technical skills but also the values that drive my professional journey:
 - _Technical Mastery:_ I am adept in leveraging Python for web scraping and machine learning, creating impactful data visualizations with Tableau, and managing database technologies using SQL. These skills have empowered me to deliver insights that drive strategic decisions.  
