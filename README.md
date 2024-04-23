@@ -1,7 +1,7 @@
 ### 👋 Hello and welcome！❤️  
-🎓 I’m Yumi Jin. I’m currently wrapping up my master’s degree at UC Davis with a major in __Business Analytics__.   
-Before this, I earned my bachelor’s degree in __Big Data Applications__ in China.   
-I have around three years of professional experience in data science where I developed strong skills in machine learning algorithms and database management.  
+🎓 I’m Yumi Jin. I’m currently wrapping up my master’s degree at UC Davis with a major in __Business Analytics__. Before this, I earned my bachelor’s degree in __Big Data Applications__ in China.    
+
+I have around __three years of professional experience in data science__ where I developed strong skills in machine learning algorithms and database management.  
 Recently, I’ve been working as a __Data Scientist__ for a health product company in San Francisco, focusing on sentiment analysis and predictive modeling.  
 
 🌱 I’m interested in __Machine learning__, __Natural Language Processing__, __Web-Scraping__, __Visualizations__ and __SQL__.  
