@@ -8,6 +8,6 @@ Recently, I’ve been working as a __Data Scientist__ for a health product compa
 🌱 I’m interested in __Machine learning__, __Natural Language Processing__, __Web-Scraping__, __Visualizations__ and __SQL__.  
 So basically most of my projects are topics related to them. Also most are based on __Python__ language.  
 
-> 😄 I am actively seeking opportunities that will allow me to contribute to, and grow with, a team that values innovation and data-driven decision-making.  
+> 😄 I am actively seeking opportunities that will allow to contribute to, and grow with, a team that values innovation and data-driven decision-making.  
   
 📫 So, Please feel free to reach out to me at yumjin@ucdavis.edu for any professional inquiries or opportunities where my passion and skills can make a difference!!  
