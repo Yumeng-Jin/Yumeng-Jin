@@ -10,4 +10,4 @@ So basically most of my projects are topics related to them. Also most are based
 
 > 😄 I am actively seeking opportunities that will allow me to contribute to, and grow with, a team that values innovation and data-driven decision-making.  
   
-📫 So, Please feel free to reach out to me at yumjin@ucdavis.edu for any professional inquiries or opportunities where my passion and skills can make a 
+📫 So, Please feel free to reach out to me at yumjin@ucdavis.edu for any professional inquiries or opportunities where my passion and skills can make a difference!!  
