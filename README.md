@@ -1,4 +1,4 @@
-### 👋 Hello and welcome！ 
+### 👋 Hello and welcome! ❤️ 
 🎓 I’m Yumi Jin. I’m currently wrapping up my master’s degree at UC Davis with a major in __Business Analytics__.   
 Before this, I earned my bachelor’s degree in __Big Data Applications__ in China.    
 
